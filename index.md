@@ -1,4 +1,4 @@
-# Jasmine Lo (j2lo@ucsd.edu)
+# Jasmine Lo ([j2lo@ucsd.edu](j2lo@ucsd.edu))
 
 ## Section B01: Robust and Interpretable Neural Network Models for Computer Vision and Natural Language Processing
 ### Mentor: Lily Weng
